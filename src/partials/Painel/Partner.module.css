@@ -1,0 +1,39 @@
+.partner {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    scrollbar-width: auto;
+    scrollbar-color: #b6a952 #d6d
+}
+
+
+
+.contentPainel {
+    width: 100%;
+    height: 100vh;
+    padding: 0 40px;
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/abea-project.appspot.com/o/wallpapers%2Fdog-wallpaper.png?alt=media&token=dbf21c7a-1ed8-4781-af9a-1bd9cafc0861');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+@media screen and (max-width: 680px) {
+    .partner {
+        width: 100%;
+        height: 100% !important;
+        display: flex;
+    }
+
+
+    .contentPainel {
+        width: 100%;
+        height: 100% !important; 
+        padding: 0 15px;
+        background: transparent;
+ 
+    }
+    
+}

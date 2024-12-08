@@ -1,0 +1,231 @@
+.PainelHome {
+    padding: 30px 0;
+    height: 100vh;
+}
+.painelTitle {
+    height: 70px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: #454545;
+}
+
+.painelTitle i {
+    font-size: 1.5rem;
+}
+
+.painelTitle h1 {
+    font-size: 32px;
+    font-weight: normal;
+}
+
+.painelInfos {
+    width: 100%;
+    padding: 30px 0;
+    height: calc(100% - 60px);
+    display: grid;
+    gap: 30px;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.painelInfosSingle {
+    display: flex;
+    border-radius: 20px;
+    overflow: hidden;
+    flex-direction: column;
+    background-color: white;
+    height: 100%;
+    box-shadow: 0px 0px 10px 3px rgba(0, 0, 0, 0.25);
+}
+
+
+.painelInfosDuo {
+    display: flex;
+    border-radius: 20px;
+    overflow: hidden;
+    flex-direction: column;
+    background-color: white;
+    height: 100%;
+    box-shadow: 0px 0px 10px 3px rgba(0, 0, 0, 0.25);
+}
+
+.infoTitle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 87px;
+    color: #000;
+    box-shadow: 0px 1px 1px 1px rgba(0, 0, 0, 0.25);
+    text-align: center;
+    font-family: Jost;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.8px;
+    width: 100%;
+}
+
+.infoContents {
+    height: calc(100% - 87px);
+    padding: 0 20px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.infoContents {
+    scrollbar-width: thin;
+    scrollbar-color: #CBCC64 #B6BEC0;
+  }
+  
+  /* Chrome, Edge and Safari */
+  .infoContents::-webkit-scrollbar {
+    height: 11px;
+    width: 11px;
+  }
+  .infoContents::-webkit-scrollbar-track {
+    border-radius: 20px;
+    background-color: #B6BEC0;
+  }
+  
+  .infoContents::-webkit-scrollbar-track:hover {
+    background-color: #B8C0C2;
+  }
+  
+  .infoContents::-webkit-scrollbar-track:active {
+    background-color: #B8C0C2;
+  }
+  
+  .infoContents::-webkit-scrollbar-thumb {
+    border-radius: 20px;
+    background-color: #CBCC64;
+  }
+  
+  .infoContents::-webkit-scrollbar-thumb:hover {
+    background-color: #CBCC64;
+  }
+  
+  .infoContents::-webkit-scrollbar-thumb:active {
+    background-color: #CBCC64;
+  }
+.infoContentsDuo {
+    display: grid;
+    height: 100%;
+    gap: 20px;
+    grid-template-columns: 1fr;
+}
+
+
+.infoContentsDuo {
+  scrollbar-width: thin;
+  scrollbar-color: #CBCC64 #B6BEC0;
+}
+
+/* Chrome, Edge and Safari */
+.infoContentsDuo::-webkit-scrollbar {
+  height: 11px;
+  width: 11px;
+}
+.infoContentsDuo::-webkit-scrollbar-track {
+  border-radius: 20px;
+  background-color: #B6BEC0;
+}
+
+.infoContentsDuo::-webkit-scrollbar-track:hover {
+  background-color: #B8C0C2;
+}
+
+.infoContentsDuo::-webkit-scrollbar-track:active {
+  background-color: #B8C0C2;
+}
+
+.infoContentsDuo::-webkit-scrollbar-thumb {
+  border-radius: 20px;
+  background-color: #CBCC64;
+}
+
+.infoContentsDuo::-webkit-scrollbar-thumb:hover {
+  background-color: #CBCC64;
+}
+
+.infoContentsDuo::-webkit-scrollbar-thumb:active {
+  background-color: #CBCC64;
+}
+
+
+
+.infoContents ul {
+    width: 100%;
+    list-style-type: none;
+}
+
+.infoContents ul li {
+    width: 100%;
+    padding: 9px 0;
+    border-radius: 10px;
+    background: #E4E4E4;
+    color: #5C5C5C;
+    margin: 15px 0;
+    text-align: center;
+    font-family: Jost;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.8px;
+}
+
+
+@media screen and (max-width: 964px) {
+
+  .PainelHome {
+    padding: 30px 0;
+    min-height: 100vh;
+}
+
+  .painelInfos {
+    width: 100%;
+    padding: 30px 0;
+    height: auto;
+    display: grid;
+    gap: 30px;
+    grid-template-columns: 1fr 1fr;
+
+}
+
+.painelInfosSingle {
+  display: flex;
+  border-radius: 20px;
+  overflow: hidden;
+  flex-direction: column;
+  background-color: white;
+  height: 100vh;
+  box-shadow: 0px 0px 10px 3px rgba(0, 0, 0, 0.25);
+}
+  
+}
+
+
+@media screen and (max-width: 680px) {
+
+  .PainelHome {
+    padding: 30px 0;
+    min-height: 100vh;
+}
+
+  .painelInfos {
+    width: 100%;
+    padding: 30px 0;
+    height: auto;
+    display: grid;
+    gap: 30px;
+    grid-template-columns: 1fr;
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/abea-project.appspot.com/o/wallpapers%2Fdog-wallpaper.png?alt=media&token=dbf21c7a-1ed8-4781-af9a-1bd9cafc0861');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+  
+}
