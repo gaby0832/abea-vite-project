@@ -6,7 +6,7 @@ const AboutUs = () => {
   return (
     <div className={styles.aboutus}>
         <Head title="Sobre nós" description="Juntos, promovendo o bem-estar dos animais <br></br>desabrigados e necessitados."/>
-        <SectionInfo name="Sobre Nós" image="https://firebasestorage.googleapis.com/v0/b/abea-project.appspot.com/o/home%2FaboutUs.jpg?alt=media&token=2ec4b255-45a0-4334-b96e-48e27d7de20f" info="Conheça nossa história, abraçando o compromisso com o bem-estar animal." />
+        <SectionInfo name="Sobre Nós" image="https://res.cloudinary.com/dqx5v6hfi/image/upload/v1778273012/cachorro35_ep1iq8.webp" info="Conheça nossa história, abraçando o compromisso com o bem-estar animal." />
         <section className={styles.aboutInfo}>
             <div className='container'>
                 <div className={styles.aboutWrapper}>
@@ -19,7 +19,7 @@ const AboutUs = () => {
                       <p>Nossa missão é clara: proporcionar uma vida digna e feliz para todos os animais, promovendo a adoção responsável e a conscientização sobre os direitos e necessidades desses seres tão especiais.</p>
                       <p>Acreditamos firmemente que cada vida importa. Ao unir forças com nossos apoiadores, parceiros e comunidade, continuaremos a fazer a diferença na vida dos animais e a inspirar mudanças significativas para um mundo mais compassivo.</p>
                     </div>
-                    <img src="https://firebasestorage.googleapis.com/v0/b/abea-project.appspot.com/o/home%2Fabea.jpg?alt=media&token=3f1ea746-6aba-4f93-93b3-d0a2db9954bb" loading='lazy' alt=''/>
+                    <img src="https://res.cloudinary.com/dqx5v6hfi/image/upload/v1778273623/escritorio_k9i5zu.webp" loading='lazy' alt=''/>
                   </div>
                   <div className={styles.aboutSingle}>
                     <div className={styles.infos}>
@@ -29,7 +29,7 @@ const AboutUs = () => {
                       <p>Desde então, nossa história tem sido marcada por momentos emocionantes de resgate, reabilitação e adoção, enquanto continuamos a crescer e expandir nossos esforços para criar um impacto cada vez maior na comunidade e no bem-estar animal.</p>
                       <p>Nossa trajetória é um testemunho do compromisso contínuo de muitos indivíduos determinados que acreditam que cada animal merece amor, cuidado e uma chance de viver feliz.</p>
                     </div>
-                    <img src="https://firebasestorage.googleapis.com/v0/b/abea-project.appspot.com/o/home%2Fhistory.jpg?alt=media&token=e7dd2dcb-9864-44ed-9b4e-23f83873a571" loading='lazy' alt=''/>
+                    <img src="https://res.cloudinary.com/dqx5v6hfi/image/upload/v1778274045/escritorio2_vpxfsc.webp" loading='lazy' alt=''/>
                   </div>
                   <div className={styles.ownersSingle}>
                       <h1>Nossa Equipe</h1>

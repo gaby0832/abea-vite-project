@@ -8,7 +8,7 @@ const AdoptFriend = () => {
   return (
     <div className={styles.adoptFriend}>
         <Head title="Adote um amigo" description="Juntos, promovendo o bem-estar dos animais <br></br>desabrigados e necessitados."/>
-        <SectionInfo name="Adote um amigo" image="https://firebasestorage.googleapis.com/v0/b/abea-project.appspot.com/o/sectionInfo%2FadoptFriend.jpg?alt=media&token=618d2c96-7565-4c43-8b77-8d55e982d6aa" info="Encontre amor em quatro patas: Adote um amigo, mude duas vidas." />
+        <SectionInfo name="Adote um amigo" image="https://res.cloudinary.com/dqx5v6hfi/image/upload/v1778272064/hvjhv_ulobis.webp" info="Encontre amor em quatro patas: Adote um amigo, mude duas vidas." />
         <div className={styles.adoptPartner}>
             <div className='container'>
                 <div className={styles.adoptPainel}>
@@ -24,7 +24,7 @@ const AdoptFriend = () => {
                         </div>
                     </div>
                     <div className={styles.adoptImage}>
-                        <img src="https://firebasestorage.googleapis.com/v0/b/abea-project.appspot.com/o/home%2FdogSmile.jpg?alt=media&token=5a86d854-01b8-4384-8f64-f47f8888c62d" alt=""/>
+                        <img src="https://res.cloudinary.com/dqx5v6hfi/image/upload/v1778272642/cachorro36_cpuq47.webp" alt=""/>
                     </div>
                 </div>
             </div>

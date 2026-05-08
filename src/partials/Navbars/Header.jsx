@@ -76,7 +76,7 @@ function Header() {
 
                     <div className={styles.logoWrapper}>
                         <Link to="/" className={`${styles.logo}`}>
-                            <img src="https://cdn.discordapp.com/attachments/1088120399478390897/1188587861289738240/image.png?ex=659b11b5&is=65889cb5&hm=eeb8af37c50a93898d4b0995c192edc85fce711a23f3e6e1d07f921078614546&" alt="" loading='lazy'/>
+                            <img src="https://res.cloudinary.com/dqx5v6hfi/image/upload/v1778176921/image_fchoa3.webp" alt="" loading='lazy'/>
                         </Link>
                     </div>    
                     

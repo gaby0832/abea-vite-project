@@ -9,7 +9,7 @@ const Services = () => {
   return (
     <div className={styles.services}>
         <Head title="Serviços" description="Juntos, promovendo o bem-estar dos animais <br></br>desabrigados e necessitados."/>
-        <SectionInfo name="Serviços & Eventos" image="https://firebasestorage.googleapis.com/v0/b/abea-project.appspot.com/o/sectionInfo%2Fservices.jpg?alt=media&token=1856fd23-bb68-45d3-b225-99f4fdc2f3da" info="Descubra nossos serviços e eventos: unindo paixão por animais e compromisso com o bem-estar." />
+        <SectionInfo name="Serviços & Eventos" image="https://res.cloudinary.com/dqx5v6hfi/image/upload/v1778180274/image_xaaype.webp" info="Descubra nossos serviços e eventos: unindo paixão por animais e compromisso com o bem-estar." />
         <section className={styles.topics}>
             <div className={`${styles.topicsContainer} container`}>
                 <div className={styles.singleTopicLeft}>
@@ -25,7 +25,7 @@ const Services = () => {
                         <div><p>Cada adoção não apenas transforma a vida do animal, mas também enriquece a vida da família adotante. Junte-se a nós nesse compromisso de proporcionar uma segunda chance e um lar amoroso para todos os animais que acolhemos.</p></div>
                     </div>
                     <div className={styles.ImageTopic}>
-                        <img src="https://firebasestorage.googleapis.com/v0/b/abea-project.appspot.com/o/topics%2Ftopic1.jpg?alt=media&token=c610bfba-f168-4df2-aec3-1f180b619ef1" alt="" loading='lazy'/>
+                        <img src="https://res.cloudinary.com/dqx5v6hfi/image/upload/v1778270896/cachorro_nadv8a.webp" alt="" loading='lazy'/>
                     </div>
                 </div>
 
@@ -43,7 +43,7 @@ const Services = () => {
                             <div><p>Cada adoção não apenas transforma a vida do animal, mas também enriquece a vida da família adotante. Junte-se a nós nesse compromisso de proporcionar uma segunda chance e um lar amoroso para todos os animais que acolhemos.</p></div>
                         </div>
                         <div className={styles.ImageTopic}>
-                            <img src="https://firebasestorage.googleapis.com/v0/b/abea-project.appspot.com/o/topics%2Ftopic2.jpg?alt=media&token=63989254-47ad-4e50-8572-3f8a8f357275" alt="" loading='lazy'/>
+                            <img src="https://res.cloudinary.com/dqx5v6hfi/image/upload/v1778271074/cachorro2_p2rasb.webp" alt="" loading='lazy'/>
                         </div>
                 </div>
 
@@ -60,7 +60,7 @@ const Services = () => {
                         <div><p>Nosso compromisso é fornecer apoio compreensivo a animais que enfrentam dificuldades, garantindo-lhes uma segunda chance de viverem vidas saudáveis e felizes. Juntos, podemos fazer a diferença na vida desses animais e criar um impacto positivo em nossa comunidade.</p></div>
                     </div>
                     <div className={styles.ImageTopic}>
-                        <img src="https://firebasestorage.googleapis.com/v0/b/abea-project.appspot.com/o/topics%2Ftopic3.jpg?alt=media&token=6288ea2e-7f72-41d9-8150-41d7bf6d0179" alt="" loading='lazy'/>
+                        <img src="https://res.cloudinary.com/dqx5v6hfi/image/upload/v1778271186/cachorro3_hrbr6e.webp" alt="" loading='lazy'/>
                     </div>
                 </div>
 
@@ -79,7 +79,7 @@ const Services = () => {
                             <div><p>Junte-se a nós neste evento especial de arrecadação de mantimentos. Seu apoio é fundamental para garantir que nossos amigos peludos recebam o cuidado e o amor que merecem. Agradecemos antecipadamente por ser parte desta iniciativa que transforma vidas.</p></div>
                         </div>
                         <div className={styles.ImageTopic}>
-                            <img src="https://firebasestorage.googleapis.com/v0/b/abea-project.appspot.com/o/topics%2Ftopic4.jpg?alt=media&token=dd78b900-a6b2-497f-ad19-8df985d0820b" alt="" loading='lazy'/>
+                            <img src="https://res.cloudinary.com/dqx5v6hfi/image/upload/v1778271606/cachorro4_ar0iud.webp" alt="" loading='lazy'/>
                         </div>
                 </div>
 

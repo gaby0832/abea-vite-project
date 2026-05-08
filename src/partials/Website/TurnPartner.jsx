@@ -9,7 +9,7 @@ const TurnPartner = () => {
   return (
     <div className={styles.turnPartner}>
         <Head title="Torne-se apoiador" description="Juntos, promovendo o bem-estar dos animais <br></br>desabrigados e necessitados."/>
-        <SectionInfo name="Torne-se apoiador" image="https://firebasestorage.googleapis.com/v0/b/abea-project.appspot.com/o/home%2Fturnpartner.jpg?alt=media&token=29ac17d0-c4f3-4caa-a28b-ed1fbd39bbd8" info="Faça a diferença: torne-se um apoiador e ajude a mudar vidas animais." />    
+        <SectionInfo name="Torne-se apoiador" image="https://res.cloudinary.com/dqx5v6hfi/image/upload/v1778275176/escritorio5_nyya5n.webp" info="Faça a diferença: torne-se um apoiador e ajude a mudar vidas animais." />    
         <div className={styles.partnerModal}>
             <div className="container">
                 <div className={styles.modalWrapper}>
@@ -28,7 +28,7 @@ const TurnPartner = () => {
                             <Link to="/painel/login/signup">Cadastrar</Link>
                         </div>
                     </div>
-                    <img src="https://firebasestorage.googleapis.com/v0/b/abea-project.appspot.com/o/home%2Fthankyou.jpg?alt=media&token=b89e7974-6ace-48e6-8b2e-328258750506" alt="" loading='lazy'/>
+                    <img src="https://res.cloudinary.com/dqx5v6hfi/image/upload/v1778177246/thankyou_gqbnwu.jpg" alt="" loading='lazy'/>
                 </div>
             </div>
         </div>

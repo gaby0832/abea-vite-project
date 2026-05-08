@@ -29,7 +29,7 @@ const Contact = () => {
   return (
     <div className={styles.contact}>
         <Head title="Contato" description="Juntos, promovendo o bem-estar dos animais <br></br>desabrigados e necessitados."/>
-        <SectionInfo name="Contato" image="https://firebasestorage.googleapis.com/v0/b/abea-project.appspot.com/o/home%2Fcontact.jpg?alt=media&token=767a5fcb-9c41-422c-8416-81361fb607e8" info="Conecte-se conosco! Estamos aqui para ouvir você e ajudar os animais necessitados." />
+        <SectionInfo name="Contato" image="https://res.cloudinary.com/dqx5v6hfi/image/upload/v1778274845/escritorio3_x4awct.webp" info="Conecte-se conosco! Estamos aqui para ouvir você e ajudar os animais necessitados." />
         <div className={styles.contactForm}>
             <div className='container'>
             <div className={styles.formWrapper}>
@@ -47,7 +47,7 @@ const Contact = () => {
                             <SbtButton name="Fazer solicitação de ajuda" disabled={false}/>
                     </div>    
                 </form>
-                <img src='https://firebasestorage.googleapis.com/v0/b/abea-project.appspot.com/o/home%2FcontactForm.jpg?alt=media&token=cd016b83-0406-4711-a83e-c3d6eaf1ed80' loading='lazy' alt=""/>
+                <img src='https://res.cloudinary.com/dqx5v6hfi/image/upload/v1778275012/escritorio4_ir0sli.webp' loading='lazy' alt=""/>
             </div>
             </div>
         </div>

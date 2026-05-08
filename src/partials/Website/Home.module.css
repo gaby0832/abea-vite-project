@@ -48,7 +48,7 @@
             -webkit-background-attachment: fixed;
             background-position: center;
             background-repeat: no-repeat;
-            background-image: url('https://firebasestorage.googleapis.com/v0/b/abea-project.appspot.com/o/home%2Fdog-home.png?alt=media&token=2ff067c2-cd1a-41f2-b773-6b9a0d1e1cca');
+            background-image: url('https://res.cloudinary.com/dqx5v6hfi/image/upload/v1778176594/image_osyamo.webp');
         }
         
         .cards {
@@ -156,7 +156,7 @@
             }
 
             .container {
-                background-image: url('https://firebasestorage.googleapis.com/v0/b/abea-project.appspot.com/o/home%2Fdog-home.png?alt=media&token=2ff067c2-cd1a-41f2-b773-6b9a0d1e1cca');
+                background-image: url('https://res.cloudinary.com/dqx5v6hfi/image/upload/v1778176594/image_osyamo.webp');
                 background-position: center;
                 background-size: contain;
                 background-repeat: no-repeat;
