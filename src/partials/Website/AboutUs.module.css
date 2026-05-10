@@ -87,6 +87,7 @@
 .owner img {
     width: 94px;
     height: 94px;
+    border-radius: 200px;
     display: inline-block;
 }
 

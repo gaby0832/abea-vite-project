@@ -70,7 +70,7 @@ const AboutUs = () => {
 
 
                         <div className={styles.owner}>
-                          <img src="https://cdn.discordapp.com/attachments/1088120399478390897/1188576832614838272/image.png?ex=659b076f&is=6588926f&hm=39a2b0182db2c690f37c6e4011d46af3ddf5a18f82aa9db96e4b6de27019ffc0&" alt='' loading='lazy'/>
+                          <img src="https://res.cloudinary.com/dqx5v6hfi/image/upload/v1778439140/Face_gn9deq.webp" alt='' loading='lazy'/>
                           <div className={styles.ownerInfo}>
                             <h3>Ana Emanuelly </h3>
                             <p>atendente</p>
