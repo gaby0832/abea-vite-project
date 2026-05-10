@@ -36,7 +36,7 @@ const AboutUs = () => {
                       <div className={styles.owners}>
 
                         <div className={styles.owner}>
-                          <img src="https://cdn.discordapp.com/attachments/1088120399478390897/1188572210374377552/image.png?ex=659b0321&is=65888e21&hm=d2f2a2804efcae27ce69944a41f607aa185aac2020c8fd0da6dd29a8802fb581&" alt='' loading='lazy'/>
+                          <img src="https://res.cloudinary.com/dqx5v6hfi/image/upload/v1778439141/Face_4_wiinbn.webp" alt='' loading='lazy'/>
                           <div className={styles.ownerInfo}>
                             <h3>Yasmin Ayla</h3>
                             <p>fundadora</p>
@@ -44,7 +44,7 @@ const AboutUs = () => {
                         </div>  
 
                         <div className={styles.owner}>
-                          <img src="https://cdn.discordapp.com/attachments/1088120399478390897/1188576681821212704/image.png?ex=659b074b&is=6588924b&hm=e627646be00fb7235cf10ee32e4b15eac5d797aa4d20f83aa6188e860243b3f3&" alt='' loading='lazy'/>
+                          <img src="https://res.cloudinary.com/dqx5v6hfi/image/upload/v1778439140/Face_3_cyy4om.webp" alt='' loading='lazy'/>
                           <div className={styles.ownerInfo}>
                             <h3>Elisa Liz Silveira</h3>
                             <p>cuidadora</p>
@@ -52,7 +52,7 @@ const AboutUs = () => {
                         </div> 
 
                         <div className={styles.owner}>
-                          <img src="https://cdn.discordapp.com/attachments/1088120399478390897/1188576741363568721/image.png?ex=659b0759&is=65889259&hm=d1495ddca2f20b5bbad4d459a4b725c021bb1326b8f23ef52dbcf3c08acb21f2&" alt='' loading='lazy'/>
+                          <img src="https://res.cloudinary.com/dqx5v6hfi/image/upload/v1778439140/Face_8_vjfkhj.webp" alt='' loading='lazy'/>
                           <div className={styles.ownerInfo}>
                             <h3>Heitor Joaquim Cardoso</h3>
                             <p>cuidador</p>
@@ -61,7 +61,7 @@ const AboutUs = () => {
 
 
                         <div className={styles.owner}>
-                          <img src="https://cdn.discordapp.com/attachments/1088120399478390897/1188576790042652803/image.png?ex=659b0765&is=65889265&hm=1c76e216def209c9ea34d0ca4b84d0dc4b00a204b8906724a52c21eb1d4fe3ab&" alt='' loading='lazy'/>
+                          <img src="https://res.cloudinary.com/dqx5v6hfi/image/upload/v1778439140/Face_7_sqeac4.webp" alt='' loading='lazy'/>
                           <div className={styles.ownerInfo}>
                             <h3>Felipe Fernando</h3>
                             <p>co-fundador</p>
@@ -78,7 +78,7 @@ const AboutUs = () => {
                         </div> 
 
                         <div className={styles.owner}>
-                          <img src="https://cdn.discordapp.com/attachments/1088120399478390897/1188576905117585408/image.png?ex=659b0780&is=65889280&hm=bdeb0ae13268fb9e620735dcc8f64bc00cfd32923daec5ea4cecea49d1f5f78d&" alt='' loading='lazy'/>
+                          <img src="https://res.cloudinary.com/dqx5v6hfi/image/upload/v1778439140/Face_2_fiqkn3.webp" alt='' loading='lazy'/>
                           <div className={styles.ownerInfo}>
                             <h3>Jéssica Bárbara da Silva</h3>
                             <p>cuidadora</p>
@@ -86,7 +86,7 @@ const AboutUs = () => {
                         </div> 
 
                         <div className={styles.owner}>
-                          <img src="https://cdn.discordapp.com/attachments/1088120399478390897/1188576986499645440/image.png?ex=659b0794&is=65889294&hm=2b5018b892df61466e0e5c15db4f44f6fd0a22976f1785d4e93185d1c0babb70&" alt='' loading='lazy'/>
+                          <img src="https://res.cloudinary.com/dqx5v6hfi/image/upload/v1778439140/Face_5_npdgv7.webp" alt='' loading='lazy'/>
                           <div className={styles.ownerInfo}>
                             <h3>Nina Analu Silveira</h3>
                             <p>atendente</p>
@@ -94,7 +94,7 @@ const AboutUs = () => {
                         </div> 
 
                         <div className={styles.owner}>
-                          <img src="https://cdn.discordapp.com/attachments/1088120399478390897/1188577095287328838/image.png?ex=659b07ae&is=658892ae&hm=ff09afac9dbb72fa9b6f552a824581a15a44d5a5168d70dbb768aee7e249f9cb&" alt='' loading='lazy'/>
+                          <img src="https://res.cloudinary.com/dqx5v6hfi/image/upload/v1778439140/Face_1_hltmbv.webp" alt='' loading='lazy'/>
                           <div className={styles.ownerInfo}>
                             <h3>Regina Maya Moreira</h3>
                             <p>Co-fundadora</p>
@@ -102,7 +102,7 @@ const AboutUs = () => {
                         </div> 
 
                         <div className={styles.owner}>
-                          <img src="https://cdn.discordapp.com/attachments/1088120399478390897/1188577041352761384/image.png?ex=659b07a1&is=658892a1&hm=d7c8dff7929a52f54540054e3647c65a969b1729c9d7b1e56e2cf507827d25a3&" alt='' loading='lazy'/>
+                          <img src="https://res.cloudinary.com/dqx5v6hfi/image/upload/v1778439140/Face_9_ygahw7.webp" alt='' loading='lazy'/>
                           <div className={styles.ownerInfo}>
                             <h3>André José Fernandes</h3>
                             <p>cuidador</p>
